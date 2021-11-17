@@ -7,7 +7,7 @@
 
  ``` git checkout branch1 ```
  
- ``` git chekout branch2 ```
+ ``` git checkout branch2 ```
  
  ``` git checkout main ```
  
