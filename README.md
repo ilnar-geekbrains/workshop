@@ -10,4 +10,7 @@
  ``` git checkout branch2 ```
  
  ``` git checkout main ```
+
+ Это какой то проект на гитхаб аккаунте
+
  
